@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damiantriebl
 - 👀 I’m interested in Be a Better Front End Developer
-- 🌱 I’m currently learning Backend on node (for check some US in back)
+- 🌱 I’m currently learning ALL
 - 📫 How to reach me DamianTriebl@gmail.com
 
 <!---
